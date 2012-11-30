@@ -1,0 +1,9 @@
+mailserver: mail.spiritseventhfire.com 
+maillogin: store
+mailpassword: password
+folder: november
+dbserver: 192.168.2.2
+dbuser: root
+dbpassword: youneednotknow
+database: spiritorders
+
